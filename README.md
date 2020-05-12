@@ -1,2 +1,0 @@
-# MansonStudio.github.io
-MansonStudio
